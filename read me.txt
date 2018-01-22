@@ -1,0 +1,1 @@
+ganti string filepath (pada photoshot.cs) dengan folder yang dituju
